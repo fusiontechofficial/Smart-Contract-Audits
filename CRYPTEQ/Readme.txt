@@ -1,12 +1,12 @@
 Audit Company : "FusionTech"
 
-Project Name : "CRTPTEQ"
+Project Name : "SAROS"
 
-Project Website : "https://crypteq.finance/"
+Project Website : "https://sarosmoon.live/"
 
-AUDIT Issued On : "February 26, 2023"
+AUDIT Issued On : "February 27, 2023"
 
-Smart Contract : https://scan.coredao.org/token/0x03faab80a25fe8cfef964273f9a80716e79c3a91
+Smart Contract : https://bscscan.com/token/0x6d988aBBDb3FFe615C1b8ce35f5da57D3448379a
 
 Contract is published onn MainNet
 
